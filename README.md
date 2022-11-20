@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KangZhou
 - 👀 I’m interested in computing science, genetics, chemistry, calculus and music. 
-- 🌱 I’m currently learning about database practice and AI algorithem. 
-- 💞️ I’m looking to collaborate on...
+- 🌱 I’m currently learning about database practice and AI algorithem.
 - 📫 How to reach me: By sending me an email through: dadaogcd4@gmail.com.
 
 <!---
