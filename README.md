@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AemonZhou
+- 👋 Hi, I’m @KangZhou
 - 👀 I’m interested in computing science, genetics, chemistry, calculus and music. 
 - 🌱 I’m currently learning about database practice and AI algorithem. 
 - 💞️ I’m looking to collaborate on...
